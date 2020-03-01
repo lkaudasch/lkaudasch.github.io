@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lkaudasch/lkaudasch.github.io#readme",
   "dependencies": {
+    "@material-ui/core": "^4.9.5",
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^3.1.2"
   }
